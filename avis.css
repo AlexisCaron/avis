@@ -4,3 +4,10 @@ body{
 .fit-picture {
     width: 250px;
 }
+li{
+    background-color: lightcoral;
+    text-align-last: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 250%;
+    color: blueviolet;
+}
