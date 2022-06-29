@@ -1,3 +1,6 @@
 body{
-    background-color: white;
+    background-color: darkgray;
+}
+.fit-picture {
+    width: 250px;
 }
